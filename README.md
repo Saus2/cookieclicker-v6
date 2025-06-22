@@ -1,4 +1,5 @@
 # cookieclicker
+TUFJTHwxNzUwNTc5NDUwNjc1fDEwMDB8MzQgMTF85aSn5aW944GN77yBfA==
 live at https://saus2.github.io/cookieclicker-v6/
 <img src="img/perfectCookie.png" width="128">
 https://konnitiwa768.github.io/cookieclicker-v2/
