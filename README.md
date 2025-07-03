@@ -1,3 +1,4 @@
+https://chatgpt.com
 # cookieclicker
 TUFJTHwxNzUwNTc5NDUwNjc1fDEwMDB8MzQgMTF85aSn5aW944GN77yBfA==
 live at https://saus2.github.io/cookieclicker-v6/
